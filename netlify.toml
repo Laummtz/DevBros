@@ -1,9 +1,10 @@
+
 [[redirects]]
 from = "/"
-to = "/LauraMMtz/HTML/freelancer_inicio/index.html"
+to = "/LauraMMtz/HTML/frontendstore_inicio/FrontEndStore_inicio/index.html"
 status = 200
 
 [[redirects]]
-from = "/frontendstore_inicio"
-to = "/LauraMMtz/HTML/frontendstore_inicio/FrontEndStore_inicio/index.html"
+from = "/freelancer_inicio"
+to = "/LauraMMtz/HTML/freelancer_inicio/index.html"
 status = 200
