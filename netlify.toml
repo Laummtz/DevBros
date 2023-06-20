@@ -1,0 +1,9 @@
+[[redirects]]
+from = "/LauraMMtz/freelancer_inicio"
+to = "/freelancer_inicio/index.html"
+status = 200
+
+[[redirects]]
+from = "/LauraMMtz/frontendstore_inicio"
+to = "/frontendstore_inicio/index.html"
+status = 200
