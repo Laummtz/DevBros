@@ -5,6 +5,16 @@ to = "/LauraMMtz/HTML/frontendstore_inicio/FrontEndStore_inicio/index.html"
 status = 200
 
 [[redirects]]
+from = "/css/*"
+to = "/LauraMMtz/HTML/frontendstore_inicio/FrontEndStore_inicio/css/:splat"
+status = 200
+
+[[redirects]]
 from = "/freelancer_inicio"
 to = "/LauraMMtz/HTML/freelancer_inicio/index.html"
+status = 200
+
+[[redirects]]
+from = "/freelancer_inicio/css/*"
+to = "/LauraMMtz/HTML/freelancer_inicio/css/:splat"
 status = 200
