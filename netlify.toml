@@ -4,8 +4,13 @@ to = "/LauraMMtz/HTML/freelancer_inicio/index.html"
 status = 200
 
 [[redirects]]
-from = "/freelancer_inicio/css/:splat"
-to = "/LauraMMtz/HTML/freelancer_inicio/css/:splat"
+from = "/freelancer_inicio/css/styles.css"
+to = "/LauraMMtz/HTML/freelancer_inicio/css/styles.css"
+status = 200
+
+[[redirects]]
+from = "/freelancer_inicio/css/normalize.css"
+to = "/LauraMMtz/HTML/freelancer_inicio/css/normalize.css"
 status = 200
 
 [[redirects]]
@@ -14,6 +19,11 @@ to = "/LauraMMtz/HTML/frontendstore_inicio/FrontEndStore_inicio/index.html"
 status = 200
 
 [[redirects]]
-from = "/frontendstore_inicio/css/:splat"
-to = "/LauraMMtz/HTML/frontendstore_inicio/FrontEndStore_inicio/css/:splat"
+from = "/frontendstore_inicio/css/styles.css"
+to = "/LauraMMtz/HTML/frontendstore_inicio/FrontEndStore_inicio/css/styles.css"
+status = 200
+
+[[redirects]]
+from = "/frontendstore_inicio/css/normalize.css"
+to = "/LauraMMtz/HTML/frontendstore_inicio/FrontEndStore_inicio/css/normalize.css"
 status = 200
